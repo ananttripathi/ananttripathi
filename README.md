@@ -55,6 +55,6 @@ I’m an AI Engineer specializing in **Agentic AI, MLOps, and Marketing Analytic
 ---
 
 ## 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiakt)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://ananttripathi.github.io/Anant-Portfolio/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananttripathiakt@gmail.com)
