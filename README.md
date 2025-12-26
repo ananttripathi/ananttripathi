@@ -6,7 +6,7 @@
 ## 🌌 The Mission
 > "Building intelligent systems that don't just predict the future, but optimize it."
 
-I’m an AI Engineer specializing in **Agentic AI, MLOps, and Marketing Analytics**. My work bridges the gap between complex mathematical modeling and scalable production environments. Currently leading data science initiatives at **Axtria** while pursuing advanced research in AI.
+I’m an AI Engineer specializing in **Agentic AI, MLOps, and Marketing Analytics**. My work bridges the gap between complex mathematical modeling and scalable production environments. Currently leading data science initiatives while pursuing advanced research in AI.
 
 ---
 
