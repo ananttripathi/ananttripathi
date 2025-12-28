@@ -44,11 +44,6 @@ I’m an AI Engineer specializing in **Agentic AI, MLOps, and Marketing Analytic
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
 ---
 
 ## 🎓 Education & Growth
