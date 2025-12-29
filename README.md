@@ -49,7 +49,7 @@ I’m an AI Engineer specializing in **Agentic AI, MLOps, and Marketing Analytic
 ## 🎓 Education & Growth
 - **M.S. in Artificial Intelligence** | Deakin University (2025-2027)
 - **PGP in AI & Machine Learning** | UT Austin (2025-2026)
-- **PGP in Agentic AI** | IIIT Bangalore (2025)
+- **PGP in Agentic AI** | IIIT Bangalore (2026)
 - **B.E. & M.Sc.** | BITS Pilani (2016-2021)
 
 ---
