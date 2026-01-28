@@ -10,20 +10,23 @@
 ## 🌌 About Me
 > "Building intelligent systems that don't just predict the future—they optimize it."
 
-I'm a **Senior ML & AI Engineer** with **5+ years** of experience building production-grade AI solutions across **LLMs, optimization, and predictive analytics**. Currently leading data science initiatives at Axtria while pursuing advanced AI research.
+I'm a **Senior ML & AI Engineer** with **5+ years** of experience building production-grade AI solutions across **LLMs, optimization, and predictive analytics**. Currently leading data science initiatives at **Axtria – Ingenious Insights** while pursuing **3 advanced AI/ML programs simultaneously** (UT Austin, IIIT Bangalore, Deakin University).
 
 **What I Do:**
 - 🧠 Build and deploy **GenAI applications** using LLMs, RAG systems, and Azure OpenAI
-- 🎯 Architect **marketing mix optimization** platforms serving Fortune 500 pharma clients
-- 🚀 Design **scalable MLOps pipelines** with Docker, MLflow, and CI/CD automation
+- 🎯 Architect **marketing mix optimization** platforms serving Fortune 500 pharma clients (Bayer, Merck, Novartis, Janssen)
+- 🚀 Design **scalable MLOps pipelines** with Docker, MLflow, FastAPI, and CI/CD automation
 - 📊 Lead cross-functional teams delivering **25+ data science projects** with measurable business impact
-- 🎓 Mentor engineers and train **70+ professionals** in ML, Python, and optimization strategies
+- 🎓 Mentor engineers and train **70+ professionals** in ML, Python, SQL, and optimization strategies
+- 🏗️ Own **10+ product capabilities** from design to deployment with enterprise-scale impact
 
 **Career Highlights:**
 - 🏆 **4 promotions in 3.5 years**: Analyst → Associate → Senior Associate → Project Leader
 - ⚡ **98-100% error-free delivery rate** across production releases
 - 🎯 **95%+ on-time delivery** for 10+ major product capabilities
-- 💡 Led **GenAI integration** improving user engagement by 40%
+- 💡 Led **GenAI integration** using Azure OpenAI improving user engagement by 40%
+- 🚀 Reduced execution time by **72%** and memory consumption by **63%**
+- 📈 Increased HCP adoption rates by **38%** and model accuracy by **35%**
 
 ---
 
@@ -148,20 +151,27 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
-### 📚 **Academic Credentials**
-- 🎓 **The University of Texas at Austin** | *Post Graduate Program in AI & ML* | GPA: 4.13/4.33 *(2025-2026)*
-- 🎓 **BITS Pilani** | *B.E. & M.Sc. (Integrated) in Electrical & Electronics* | GPA: 7.62/10 *(2016-2021)*
+- 🎓 **Deakin University, Australia** | Masters of Data Science *(Jun 2026 – Jun 2027)*
+  
+- 🎓 **International Institute of Information Technology, Bangalore** | Executive PGP in Applied AI & Agentic AI *(Dec 2025 – Aug 2026)*
+  
+- 🎓 **The University of Texas at Austin, USA** | Post Graduate Program in Artificial Intelligence & Machine Learning *(Feb 2025 – Mar 2026)*
 
-### 🏆 **Certifications**
-- ✅ **Machine Learning Specialization** – Stanford University & Deeplearning.ai
+- 🎓 **Birla Institute of Technology and Science, Pilani** | B.E. & M.Sc. (Integrated) in Electrical and Electronics *(Aug 2016 – Jun 2021)*
+
+### 🏆 **Professional Certifications**
+- ✅ **Machine Learning Specialization** – Stanford University & Deeplearning.ai (Andrew Ng)
+  - Comprehensive coursework in supervised/unsupervised learning, neural networks, and ML best practices
 - ✅ **Generative AI for Software Developers** – IBM
+  - Practical applications of GenAI in software engineering workflows
 - ✅ **Introduction to Generative AI** – Google Cloud
+  - Core concepts and cloud deployment of GenAI solutions
 
 ### 🥇 **Awards & Recognition**
-- 🏅 **Right Brigade Award** – Exemplary display of core values and team leadership
-- 🏅 **Bravo Award** – High-quality delivery and strong client appreciation
+- 🏅 **Right Brigade Award (Axtria)** – Recognized for exemplary display of "RIGHT" values: Responsiveness, Integrity, Get going, Humble, and Team Player
+- 🏅 **Bravo Award (Axtria)** – Honored for delivering high-quality work, exemplary performance, and strong client appreciation across multiple high-stakes projects
 
 ---
 
@@ -182,12 +192,69 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 ```python
 current_focus = {
-    "research": ["Agentic AI", "RAG Systems", "LLM Fine-Tuning"],
-    "engineering": ["MLOps Pipelines", "System Architecture", "API Design"],
-    "business": ["Marketing Analytics", "Optimization", "Product Leadership"],
-    "learning": ["Advanced AI/ML", "Distributed Systems", "Cloud Architecture"]
+    "research": [
+        "Agentic AI Systems",
+        "RAG Architectures & Vector Search", 
+        "LLM Fine-Tuning & Inference Optimization",
+        "Multi-Agent Coordination"
+    ],
+    "engineering": [
+        "MLOps Pipelines & Automation",
+        "System Architecture & API Design",
+        "Optimization Algorithms (COBYLA, SLSQP, CCSA)",
+        "Real-time Model Serving"
+    ],
+    "business": [
+        "Marketing Mix Modeling (MMM)",
+        "Portfolio Optimization", 
+        "Product Leadership & Strategy",
+        "Enterprise AI Solutions"
+    ],
+    "learning": [
+        "Advanced AI/ML Research (UT Austin)",
+        "Applied AI & Agentic Systems (IIIT Bangalore)",
+        "Data Science Mastery (Deakin University)",
+        "Distributed Computing & Cloud Architecture"
+    ],
+    "teaching": [
+        "Training 70+ professionals",
+        "Technical mentorship",
+        "Knowledge sharing & documentation"
+    ]
 }
 ```
+
+---
+
+## 🎯 Key Technical Expertise
+
+### **Generative AI & LLMs**
+- Azure OpenAI integration and production deployment
+- RAG system architecture with vector databases (FAISS, Pinecone, Weaviate)
+- Prompt engineering and LLM fine-tuning
+- Embeddings and semantic search optimization
+- LangChain and LlamaIndex workflows
+
+### **Marketing Analytics & Optimization**
+- Marketing Mix Modeling (MMM) with 25+ delivered projects
+- Advanced optimization algorithms: COBYLA, SLSQP, CCSA
+- Non-linear response curves (S-curves, diminishing returns)
+- Portfolio-level optimization with multi-level constraints
+- Budget planning and profit maximization scenarios
+
+### **Machine Learning & Predictive Analytics**
+- Supervised learning: Random Forest, XGBoost, Logistic Regression
+- Time series forecasting and anomaly detection
+- Early adopter prediction and HCP targeting
+- A/B testing, experiment design, and causal inference
+- Model evaluation and hyperparameter optimization
+
+### **MLOps & Production Engineering**
+- End-to-end pipeline automation with CI/CD
+- Docker containerization and FastAPI deployment
+- MLflow for experiment tracking and model versioning
+- Cloud deployment: AWS, Azure, GCP, Databricks
+- Performance optimization: 72% execution time reduction, 63% memory reduction
 
 ---
 
