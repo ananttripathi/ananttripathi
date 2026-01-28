@@ -1,4 +1,4 @@
-# 🤖 <Anant Tripathi />
+# 🤖 Anant Tripathi <Anant Tripathi />
 ### Senior ML & AI Engineer | GenAI Specialist | Product Leader
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=flat-square&logo=visual-studio-code&logoColor=white)](https://ananttripathi.github.io/Anant-Portfolio/)
