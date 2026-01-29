@@ -1,4 +1,4 @@
-# 🤖 Anant Tripathi <Anant Tripathi />
+# 🤖 About me <Anant Tripathi />
 ### Senior ML & AI Engineer | GenAI Specialist | Product Leader
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiak)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=flat-square&logo=visual-studio-code&logoColor=white)](https://ananttripathi.github.io/Anant-Portfolio/)
@@ -95,12 +95,12 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 ## 🚀 Featured Projects
 
-### 🎯 [MarketingIQ Platform - Marketing Mix Optimization](https://www.axtria.com/cloud-products/axtria-marketingiq-marketing-analytics/)
+### 🎯 [MMX Platform - Marketing Mix Optimization](https://www.axtria.com/cloud-products/axtria-marketingiq-marketing-analytics/)
 **Tech Stack:** Python • Optimization Algorithms • Azure • MLOps • SaaS
 
 - Led development of enterprise-scale **Marketing Mix Modeling** framework for Fortune 500 pharma clients
 - Architected **10+ optimization capabilities** including Portfolio Optimization, Multi-Level Constraints, and Monthly Gating
-- Implemented advanced algorithms (COBYLA, SLSQP, CCSA) with **non-linear response modeling**
+- Implemented advanced algorithms (COBYLA, SLSQP, etc.) with **non-linear response modeling**
 - Delivered **25+ MMM projects** for Bayer, Merck, Novartis, Janssen with measurable ROI improvements
 - Built Pre/Post-Optimization APIs reducing execution time by **72%** and memory by **63%**
 
