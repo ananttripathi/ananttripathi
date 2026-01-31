@@ -204,12 +204,6 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 ![Metrics](https://raw.githubusercontent.com/ananttripathi/ananttripathi/main/github-metrics.svg)
 
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ananttripathi?style=for-the-badge" />
-  <img src="https://img.shields.io/github/forks/ananttripathi?style=for-the-badge" />
-  <img src="https://img.shields.io/github/last-commit/ananttripathi?style=for-the-badge" />
-</p>
-
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meet-m-upadhyay&theme=radical&no-frame=true&no-bg=false&margin-w=4)
