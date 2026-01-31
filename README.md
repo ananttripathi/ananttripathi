@@ -203,7 +203,12 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 ![Metrics](https://raw.githubusercontent.com/ananttripathi/ananttripathi/main/github-metrics.svg)
 
+<!-- Using GitHub Readme Stats (Alternative CDN) -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=ananttripathi&theme=tokyonight)
 ---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=meet-m-upadhyay&theme=radical&no-frame=true&no-bg=false&margin-w=4)
