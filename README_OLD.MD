@@ -53,6 +53,39 @@ I’m an AI Engineer specializing in **Agentic AI, MLOps, and Marketing Analytic
 - **B.E. & M.Sc.** | BITS Pilani (2016-2021)
 
 ---
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananttripathi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathi&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
+![Metrics](https://raw.githubusercontent.com/ananttripathi/ananttripathi/main/github-metrics.svg)
+
+<!-- Using GitHub Readme Stats (Alternative CDN) -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight)
+---
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiakt)
