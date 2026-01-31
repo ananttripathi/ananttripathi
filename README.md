@@ -185,6 +185,11 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/github/stars/ananttripathi?style=for-the-badge" />
+  <img src="https://img.shields.io/github/forks/ananttripathi?style=for-the-badge" />
+  <img src="https://img.shields.io/github/last-commit/ananttripathi?style=for-the-badge" />
+</p>
 
 ---
 ## 🏆 GitHub Trophies
