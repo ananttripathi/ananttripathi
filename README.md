@@ -186,6 +186,21 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathi&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananttripathi&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathi&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+
 ![Metrics](https://raw.githubusercontent.com/ananttripathi/ananttripathi/main/github-metrics.svg)
 
 
