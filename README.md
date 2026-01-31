@@ -175,38 +175,45 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 ---
 
-## 📈 GitHub Analytics
+<!-- GitHub Stats Section -->
+<div align="center">
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight&hide_border=true" />
+## 📊 GitHub Statistics
+
+<!-- Main Stats Row -->
+<p>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<p align="center">
+<!-- Streak Stats -->
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathi&theme=tokyonight" />
+<!-- Profile Summary -->
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ananttripathi&theme=tokyonight" alt="Profile Details" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathi&theme=tokyonight" />
+<!-- Language & Stats Cards Row -->
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ananttripathi&theme=tokyonight" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ananttripathi&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananttripathi&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathi&theme=tokyonight&utcOffset=5.5" />
+<!-- Additional Stats Row -->
+<p>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ananttripathi&theme=tokyonight" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ananttripathi&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
+<!-- Metrics -->
+<p>
+  <img src="https://raw.githubusercontent.com/ananttripathi/ananttripathi/main/github-metrics.svg" alt="Detailed Metrics" />
+</p>
 
-![Metrics](https://raw.githubusercontent.com/ananttripathi/ananttripathi/main/github-metrics.svg)
-
-<!-- Using GitHub Readme Stats (Alternative CDN) -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight)
+</div>
 
 ---
 ## 🏆 GitHub Trophies
