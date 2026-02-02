@@ -315,7 +315,7 @@ I'm always interested in:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananttripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
----
+
 <p align="center">
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
 </p>
