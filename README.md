@@ -476,7 +476,7 @@ I'm always interested in:
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ananttripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-[![](https://visitcount.itsvg.in/api?id=ananttripathi&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
@@ -484,16 +484,4 @@ I'm always interested in:
 
 ---
 
-<details>
-<summary><b>📝 Add demo GIFs to your projects</b></summary>
 
-To replace placeholder images with real demos:
-
-1. **Record a short demo** (5–10 sec) with [ScreenToGif](https://www.screentogif.com/) or [Kap](https://getkap.co/)
-2. **Add to each repo** in an `assets/` folder as `demo.gif`
-3. **Update the image URLs** in this README from `placehold.co/...` to:
-   ```
-   https://raw.githubusercontent.com/ananttripathi/REPO_NAME/main/assets/demo.gif
-   ```
-
-</details>
