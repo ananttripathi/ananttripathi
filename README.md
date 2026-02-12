@@ -111,30 +111,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 - Delivered **25+ MMM projects** for Bayer, Merck, Novartis, Janssen with measurable ROI improvements
 - Built Pre/Post-Optimization APIs reducing execution time by **72%** and memory by **63%**
 
-### 🌍 [Tourism Package Purchase Prediction & MLOps Pipeline](https://github.com/ananttripathi/Tourism_Project)
-**Tech Stack:** XGBoost • MLflow • Docker • GitHub Actions • Streamlit • Hugging Face
-
-- Built **end-to-end MLOps pipeline** with automated CI/CD for customer purchase behavior prediction
-- Engineered feature pipelines handling missing values, encoding, and stratified splits
-- Implemented **XGBoost classification** with hyperparameter tuning and MLflow tracking
-- Containerized with Docker and deployed **real-time Streamlit app** to Hugging Face Spaces
-- Demonstrated modern **model governance** with datasets and artifacts stored on HF Hub
-
-### 🔧 [Engine Predictive Maintenance System](https://github.com/ananttripathi/engine-predictive-maintenance)
-**Tech Stack:** Random Forest • Gradient Boosting • Time Series • IoT Data Processing
-
-- Built predictive maintenance system forecasting engine failures using **time-series sensor data**
-- Performed comprehensive feature engineering with lag features capturing degradation patterns
-- Trained multiple models with cross-validation optimized for **imbalanced failure prediction**
-- Developed automated evaluation pipeline tracking precision, recall, F1-score, and ROC-AUC
-- Created interactive dashboards for engineering decision support and maintenance scheduling
-
 ---
-
-## 📦 Project Gallery — All Public Repositories
-
-<details>
-<summary><b>📂 Click to expand full project gallery</b></summary>
 
 ### MLOps & Production ML
 
@@ -142,13 +119,15 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 <tr>
 <td width="50%">
 
-#### 🎯 Tourism Package Prediction
+#### 🎯 Tourism Package Prediction — MLOps Pipeline
 [![Repo](https://img.shields.io/badge/Repo-7_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Tourism_Project)
-[![Live](https://img.shields.io/badge/Live-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction)
 
-![Tourism](https://placehold.co/800x350/0f172a/6366f1?text=Tourism+MLOps)
+![Tourism MLOps Demo](https://placehold.co/800x400/0f172a/6366f1?text=Tourism+MLOps+Pipeline)
 
-XGBoost • MLflow • Docker • GitHub Actions • Streamlit • Hugging Face
+End-to-end MLOps pipeline for predicting customer purchase of wellness tourism packages. **XGBoost** classification with **MLflow** tracking, **Hugging Face** data/model versioning, **GitHub Actions** CI/CD, and **Dockerized Streamlit** deployment.
+
+**Stack:** Python • XGBoost • MLflow • Docker • GitHub Actions • Streamlit • Hugging Face
 
 </td>
 <td width="50%">
@@ -156,13 +135,17 @@ XGBoost • MLflow • Docker • GitHub Actions • Streamlit • Hugging Face
 #### 🔧 Engine Predictive Maintenance
 [![Repo](https://img.shields.io/badge/Repo-5_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/engine-predictive-maintenance)
 
-![Predictive](https://placehold.co/800x350/0f172a/22c55e?text=Predictive+Maintenance)
+![Predictive Maintenance Demo](https://placehold.co/800x400/0f172a/22c55e?text=Predictive+Maintenance)
 
-Random Forest • Gradient Boosting • Time Series • IoT • Streamlit
+IoT-based predictive maintenance using engine sensor data. Time-series feature engineering, **Random Forest** & **Gradient Boosting** models, and automated evaluation pipeline with ROC-AUC, F1-score tracking.
+
+**Stack:** Python • Scikit-learn • XGBoost • Time Series • Hugging Face • Streamlit
 
 </td>
 </tr>
 </table>
+
+---
 
 ### Generative AI & RAG
 
@@ -173,9 +156,11 @@ Random Forest • Gradient Boosting • Time Series • IoT • Streamlit
 #### 🏥 Medical RAG Assistant
 [![Repo](https://img.shields.io/badge/Repo-5_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Medical-RAG-System)
 
-![Medical RAG](https://placehold.co/800x350/0f172a/ec4899?text=Medical+RAG)
+![Medical RAG Demo](https://placehold.co/800x400/0f172a/ec4899?text=Medical+RAG+System)
 
-ChromaDB • Mistral 7B • LangChain • GTE-large • Merck Manual
+RAG-based medical Q&A over the **Merck Manual (19th ed.)**. **ChromaDB** semantic search, **GTE-large** embeddings, **Mistral 7B** (GGUF) for answer generation. Runs fully locally for privacy with optional GPU acceleration.
+
+**Stack:** Python • LangChain • ChromaDB • Mistral • Sentence-Transformers • Jupyter
 
 </td>
 <td width="50%">
@@ -183,13 +168,17 @@ ChromaDB • Mistral 7B • LangChain • GTE-large • Merck Manual
 #### ✈️ Airline QnA Bot
 [![Repo](https://img.shields.io/badge/Repo-4_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Airline-QnA-Bot)
 
-![Airline](https://placehold.co/800x350/0f172a/3b82f6?text=Airline+QnA+Bot)
+![Airline QnA Demo](https://placehold.co/800x400/0f172a/3b82f6?text=Airline+QnA+Bot)
 
-LangChain • FAISS • ChromaDB • OpenAI • Claude • RAG
+RAG-powered HR policy Q&A bot for Flykite Airlines employee handbook. Query via natural language with **LangChain**, **FAISS/ChromaDB**, **OpenAI/Claude**. Source attribution and hyperparameter tuning.
+
+**Stack:** LangChain • FAISS • ChromaDB • OpenAI • Claude • RAG
 
 </td>
 </tr>
 </table>
+
+---
 
 ### Marketing Analytics & Optimization
 
@@ -200,9 +189,11 @@ LangChain • FAISS • ChromaDB • OpenAI • Claude • RAG
 #### 📊 MMM — Marketing Mix Modelling
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/MMM-Marketing-Mix-Modelling)
 
-![MMM](https://placehold.co/800x350/0f172a/f59e0b?text=MMM+Marketing+Mix)
+![MMM Demo](https://placehold.co/800x400/0f172a/f59e0b?text=MMM+Marketing+Mix)
 
-Streamlit • Adstock • Saturation • S-curves • Bayesian • ROI
+Marketing Mix Modelling app: attribute sales/revenue to channels with **adstock**, **saturation transforms**, and ROI/mROI. Streamlit wizard, 5 model types (Linear, Ridge, Lasso, Bayesian), segment analysis.
+
+**Stack:** Python • Streamlit • Scikit-learn • Bayesian • Optimization
 
 </td>
 <td width="50%">
@@ -210,13 +201,17 @@ Streamlit • Adstock • Saturation • S-curves • Bayesian • ROI
 #### 📄 Resume Analyzer — ATS Optimization
 [![Repo](https://img.shields.io/badge/Repo-6_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Resume-Analyzer-MLOps)
 
-![Resume](https://placehold.co/800x350/0f172a/8b5cf6?text=Resume+Analyzer)
+![Resume Analyzer Demo](https://placehold.co/800x400/0f172a/8b5cf6?text=Resume+Analyzer+MLOps)
 
-ATS scoring • Keyword analysis • Skill gap • Job matching • MLOps
+AI-powered MLOps platform that optimizes your resume for **Applicant Tracking Systems**. ATS scoring, keyword analysis, skill gap insights, and smart job matching.
+
+**Stack:** Python • NLP • MLOps • Streamlit • AI
 
 </td>
 </tr>
 </table>
+
+---
 
 ### Learning Platforms & Resources
 
@@ -226,25 +221,31 @@ ATS scoring • Keyword analysis • Skill gap • Job matching • MLOps
 
 #### 📚 Senior Data Scientist Roadmap
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Senior-Data-Scientist-Roadmap)
-[![Live](https://img.shields.io/badge/Interactive-Live-6366f1?style=flat-square)](https://ananttripathi.github.io/Senior-Data-Scientist-Roadmap/)
+[![Live](https://img.shields.io/badge/Interactive_Site-Live-6366f1?style=flat-square)](https://ananttripathi.github.io/Senior-Data-Scientist-Roadmap/)
 
-![Roadmap](https://placehold.co/800x350/0f172a/6366f1?text=DS+Roadmap)
+![Roadmap Demo](https://placehold.co/800x400/0f172a/6366f1?text=Data+Scientist+Roadmap)
 
-Data Engineer • Data Scientist • ML Engineer • AI Engineer • Progress tracking
+Interactive roadmap for **Data Engineer**, **Data Scientist**, **ML Engineer**, **AI Engineer** paths. Progress tracking, clickable topics with resources, study schedules, and interview prep.
+
+**Stack:** HTML • CSS • JavaScript • GitHub Pages
 
 </td>
 <td width="50%">
 
-#### 💻 DSCode — Data Science Learning
+#### 💻 DSCode — Data Science Learning Platform
 [![Repo](https://img.shields.io/badge/Repo-5_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/DSCode)
 
-![DSCode](https://placehold.co/800x350/0f172a/10b981?text=DSCode)
+![DSCode Demo](https://placehold.co/800x400/0f172a/10b981?text=DSCode+Learning+Platform)
 
-445+ problems • Python • ML • Deep Learning • NLP • Computer Vision
+Free, comprehensive learning platform for mastering Data Science, AI, and ML. **445+ curated problems** across 16 topics: Python, ML, Deep Learning, NLP, Computer Vision, and more.
+
+**Stack:** HTML • JavaScript • Problem-solving • Education
 
 </td>
 </tr>
 </table>
+
+---
 
 ### Portfolios & Academic Projects
 
@@ -256,9 +257,11 @@ Data Engineer • Data Scientist • ML Engineer • AI Engineer • Progress tr
 [![Repo](https://img.shields.io/badge/Repo-6_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Anant-Portfolio)
 [![Live](https://img.shields.io/badge/Live_Site-6366f1?style=flat-square)](https://ananttripathi.github.io/Anant-Portfolio/)
 
-![Portfolio](https://placehold.co/800x350/0f172a/6366f1?text=Portfolio)
+![Portfolio Demo](https://placehold.co/800x400/0f172a/6366f1?text=Professional+Portfolio)
 
-HTML5 • CSS3 • JavaScript • GitHub Pages • Apple-inspired
+Professional portfolio website: ML/AI projects, Generative AI & MLOps experience, marketing analytics, and product optimization. Apple-inspired design, responsive, FormSubmit contact.
+
+**Stack:** HTML5 • CSS3 • JavaScript • GitHub Pages
 
 </td>
 <td width="50%">
@@ -266,13 +269,17 @@ HTML5 • CSS3 • JavaScript • GitHub Pages • Apple-inspired
 #### 📓 AI-ML Projects — UT Austin
 [![Repo](https://img.shields.io/badge/Repo-16_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/AI-ML-Projects-UT-Austin)
 
-![UT Austin](https://placehold.co/800x350/0f172a/eab308?text=UT+Austin+AI+ML)
+![UT Austin Demo](https://placehold.co/800x400/0f172a/eab308?text=UT+Austin+AI+ML+Projects)
 
-Jupyter • Python • Scikit-learn • Neural Networks • MLOps
+Comprehensive AI & ML project portfolio from **University of Texas at Austin** PG Program. Real-world data science and machine learning solutions across multiple domains.
+
+**Stack:** Jupyter • Python • Scikit-learn • Neural Networks • MLOps
 
 </td>
 </tr>
 </table>
+
+---
 
 ### Program Portfolios
 
@@ -280,12 +287,9 @@ Jupyter • Python • Scikit-learn • Neural Networks • MLOps
 |---------|-------------|
 | [MDS-Deakin-University](https://github.com/ananttripathi/MDS-Deakin-University) | Data science projects from Deakin University MDS program — analytics, modeling, business insights (⭐ 7) |
 | [PGP-Applied-AI-Agentic-AI-IIITB](https://github.com/ananttripathi/PGP-Applied-AI-Agentic-AI-IIITB) | Applied AI & Agentic AI from IIIT Bangalore — LLMs, RAG, multi-agent systems (⭐ 5) |
-| [RAG-based-Medical-Assistant](https://github.com/ananttripathi/RAG-based-Medical-Assistant) | HTML export of Medical RAG Assistant |
 | [System-Design](https://github.com/ananttripathi/System-Design) | System design roadmaps for SDE, ML Engineer, AI Engineer, Data Scientist, Data Engineer |
 | [Anant-Tripathi](https://github.com/ananttripathi/Anant-Tripathi) | Cyberpunk-inspired portfolio with particle animation (⭐ 6) |
 | [Rough](https://github.com/ananttripathi/Rough) | Lightweight sandbox for experiments and scratch work |
-
-</details>
 
 ---
 
