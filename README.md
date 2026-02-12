@@ -4,25 +4,20 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems" alt="Typing SVG" />
 
-### Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=flat-square&logo=visual-studio-code&logoColor=white)](https://ananttripathi.github.io/Anant-Portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=flat-square&logo=googlechrome&logoColor=white)](https://ananttripathi.github.io/Anant-Portfolio/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/anantkumartripathi)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ananttripathiak)
 
-### Certifications & Expertise
-[![Stanford ML](https://img.shields.io/badge/Stanford-ML_Specialization-E34F26?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
-[![IBM GenAI](https://img.shields.io/badge/IBM-GenAI_for_Devs-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com/training/badges)
-[![Google GenAI](https://img.shields.io/badge/Google-Intro_to_GenAI-4285F4?style=flat-square&logo=google&logoColor=white)](https://cloud.google.com/learn/certification)
-[![AWS](https://img.shields.io/badge/AWS-Certified-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://aws.amazon.com/)
-[![Azure](https://img.shields.io/badge/Azure-OpenAI-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![Stanford ML](https://img.shields.io/badge/Stanford_ML-E34F26?style=flat-square&logo=coursera&logoColor=white)](https://www.coursera.org/specializations/machine-learning-introduction)
+[![IBM GenAI](https://img.shields.io/badge/IBM_GenAI-054ADA?style=flat-square&logo=ibm&logoColor=white)](https://www.ibm.com/training/badges)
+[![Google GenAI](https://img.shields.io/badge/Google_GenAI-4285F4?style=flat-square&logo=google&logoColor=white)](https://cloud.google.com/learn/certification)
 
-### Project Highlights — Quick Links
-[![Tourism MLOps](https://img.shields.io/badge/🔄_Tourism_MLOps-Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction)
-[![Medical RAG](https://img.shields.io/badge/🏥_Medical_RAG-Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Medical-RAG-System)
-[![Resume Analyzer](https://img.shields.io/badge/📄_Resume_ATS-Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Resume-Analyzer-MLOps)
-[![DS Roadmap](https://img.shields.io/badge/📚_DS_Roadmap-Live-6366f1?style=flat-square)](https://ananttripathi.github.io/Senior-Data-Scientist-Roadmap/)
-[![DSCode](https://img.shields.io/badge/💻_DSCode-445+_Problems-10b981?style=flat-square&logo=github)](https://github.com/ananttripathi/DSCode)
+[![Tourism](https://img.shields.io/badge/Tourism_Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction)
+[![Medical RAG](https://img.shields.io/badge/Medical_RAG-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Medical-RAG-System)
+[![Resume Analyzer](https://img.shields.io/badge/Resume_ATS-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Resume-Analyzer-MLOps)
+[![DS Roadmap](https://img.shields.io/badge/DS_Roadmap-6366f1?style=flat-square)](https://ananttripathi.github.io/Senior-Data-Scientist-Roadmap/)
+[![DSCode](https://img.shields.io/badge/DSCode-10b981?style=flat-square&logo=github)](https://github.com/ananttripathi/DSCode)
 
 </div>
 
