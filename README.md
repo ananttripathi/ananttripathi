@@ -492,15 +492,8 @@ current_focus = {
 
 <div align="center">
 
-<iframe src="https://github.com/sponsors/ananttripathi/button" title="Sponsor ananttripathi" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-&nbsp;
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_Me-181717?style=for-the-badge&logo=githubsponsors&logoColor=#EA4AAA)](https://github.com/sponsors/ananttripathi)
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ananttripathi)
-
-<br><br>
-
-**Sponsor Card**
-
-<iframe src="https://github.com/sponsors/ananttripathi/card" title="Sponsor ananttripathi" height="225" width="600" style="border: 0;"></iframe>
 
 </div>
 
