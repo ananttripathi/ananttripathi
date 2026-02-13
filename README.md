@@ -490,15 +490,19 @@ current_focus = {
 ---
 ### ☕ Support My Work
 
-<p align="center">
-  <iframe src="https://github.com/sponsors/ananttripathi/button" title="Sponsor ananttripathi" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
-  &nbsp;&nbsp;
-  <a href="https://www.buymeacoffee.com/ananttripathi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="32" width="114" style="border-radius: 6px;"></a>
-</p>
+<div align="center">
 
-<p align="center">
-  <iframe src="https://github.com/sponsors/ananttripathi/card" title="Sponsor ananttripathi" height="225" width="600" style="border: 0;"></iframe>
-</p>
+<iframe src="https://github.com/sponsors/ananttripathi/button" title="Sponsor ananttripathi" height="32" width="114" style="border: 0; border-radius: 6px;"></iframe>
+&nbsp;
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ananttripathi)
+
+<br><br>
+
+**Sponsor Card**
+
+<iframe src="https://github.com/sponsors/ananttripathi/card" title="Sponsor ananttripathi" height="225" width="600" style="border: 0;"></iframe>
+
+</div>
 
 *Your support helps me create more open-source projects and share knowledge with the community.*
 
