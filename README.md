@@ -66,7 +66,18 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 - 📈 Increased HCP adoption rates by **38%** and model accuracy by **35%**
 
 ---
+### ☕ Support My Work
 
+<div align="center">
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor_Me-181717?style=for-the-badge&logo=githubsponsors&logoColor=#EA4AAA)](https://github.com/sponsors/ananttripathi)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ananttripathi)
+
+</div>
+
+*Your support helps me create more open-source projects and share knowledge with the community.*
+
+---
 ## ⚡ Impact Metrics
 
 | Metric | Achievement | Domain |
