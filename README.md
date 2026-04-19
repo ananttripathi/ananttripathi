@@ -154,6 +154,69 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 ---
 
+### 🛠️ Apps & Tools
+
+<table>
+<tr>
+<td width="50%">
+
+#### 📄 File Whisperer — RAG Document Chat
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/File-whisperer)
+[![Live](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel)](https://file-whisperer1.vercel.app)
+
+![File Whisperer Demo](https://placehold.co/800x400/0f172a/6366f1?text=File+Whisperer+RAG)
+
+Upload any PDF, DOCX, or TXT and chat with it using AI. **RAG-powered** document Q&A with **FastAPI** backend, **pgvector** semantic search, and **Cohere** embeddings. Supports BYOK (Bring Your Own Key).
+
+**Stack:** Python • FastAPI • LangChain • pgvector • Cohere • React • Vercel
+
+</td>
+<td width="50%">
+
+#### ✂️ Snip-URL — URL Shortener
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Snip-URL)
+[![Live](https://img.shields.io/badge/Live_Demo-Vercel-000000?style=flat-square&logo=vercel)](https://snip-url-alpha.vercel.app)
+
+![Snip URL Demo](https://placehold.co/800x400/0f172a/22c55e?text=Snip+URL+Shortener)
+
+Fast, lightweight URL shortener with **click analytics**, **custom aliases**, and **link expiry**. Node.js + Express backend on Hugging Face Spaces, PostgreSQL on Neon, frontend on Vercel.
+
+**Stack:** Node.js • Express • PostgreSQL • Neon • Vercel • Hugging Face
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🔍 Code Differentiator — Diff Tool
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/code-differentiator)
+[![Live](https://img.shields.io/badge/Live_Demo-GitHub_Pages-181717?style=flat-square&logo=github)](https://ananttripathi.github.io/code-differentiator/)
+
+![Code Diff Demo](https://placehold.co/800x400/0f172a/f59e0b?text=Code+Differentiator)
+
+Client-side code & text diff tool — paste or upload files, compare with **syntax-aware highlighting**. Supports Jupyter notebooks, privacy-first (no data sent to server).
+
+**Stack:** JavaScript • HTML5 • CSS3 • GitHub Pages
+
+</td>
+<td width="50%">
+
+#### ⚙️ YAML Payload Conversion
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/YAML-Payload-Conversion)
+[![Live](https://img.shields.io/badge/Live_Demo-GitHub_Pages-181717?style=flat-square&logo=github)](https://ananttripathi.github.io/YAML-Payload-Conversion/)
+
+![YAML Converter Demo](https://placehold.co/800x400/0f172a/ec4899?text=YAML+Payload+Converter)
+
+Web app converting YAML configurations to Python variable assignments in real-time. Privacy-first, fully client-side processing with **js-yaml**.
+
+**Stack:** JavaScript • js-yaml • HTML5 • CSS3 • GitHub Pages
+
+</td>
+</tr>
+</table>
+
+---
+
 ### MLOps & Production ML
 
 <table>
@@ -173,14 +236,15 @@ End-to-end MLOps pipeline for predicting customer purchase of wellness tourism p
 </td>
 <td width="50%">
 
-#### 🔧 Engine Predictive Maintenance
-[![Repo](https://img.shields.io/badge/Repo-5_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/engine-predictive-maintenance)
+#### 🔧 Engine Predictive Maintenance — MLOps Pipeline
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/engine-pm-project)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/engine-predictive-maintenance)
 
-![Predictive Maintenance Demo](https://placehold.co/800x400/0f172a/22c55e?text=Predictive+Maintenance)
+![Predictive Maintenance Demo](https://placehold.co/800x400/0f172a/22c55e?text=Engine+PM+MLOps+Pipeline)
 
-IoT-based predictive maintenance using engine sensor data. Time-series feature engineering, **Random Forest** & **Gradient Boosting** models, and automated evaluation pipeline with ROC-AUC, F1-score tracking.
+End-to-end MLOps pipeline for engine failure classification using 6 sensor inputs (RPM, oil/fuel/coolant pressure, temperature). **MLflow** experiment tracking, **GitHub Actions** CI/CD, and **Dockerized Streamlit** deployment on Hugging Face Spaces.
 
-**Stack:** Python • Scikit-learn • XGBoost • Time Series • Hugging Face • Streamlit
+**Stack:** Python • Scikit-learn • XGBoost • MLflow • Docker • GitHub Actions • Streamlit • Hugging Face
 
 </td>
 </tr>
