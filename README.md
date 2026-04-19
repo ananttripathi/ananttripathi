@@ -224,7 +224,7 @@ Web app converting YAML configurations to Python variable assignments in real-ti
 <td width="50%">
 
 #### 🎯 Tourism Package Prediction — MLOps Pipeline
-[![Repo](https://img.shields.io/badge/Repo-7_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Tourism_Project)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Tourism_Project)
 [![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction)
 
 ![Tourism MLOps Demo](https://placehold.co/800x400/0f172a/6366f1?text=Tourism+MLOps+Pipeline)
@@ -259,25 +259,13 @@ End-to-end MLOps pipeline for engine failure classification using 6 sensor input
 <td width="50%">
 
 #### 🏥 Medical RAG Assistant
-[![Repo](https://img.shields.io/badge/Repo-5_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Medical-RAG-System)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Medical-RAG-System)
 
 ![Medical RAG Demo](https://placehold.co/800x400/0f172a/ec4899?text=Medical+RAG+System)
 
 RAG-based medical Q&A over the **Merck Manual (19th ed.)**. **ChromaDB** semantic search, **GTE-large** embeddings, **Mistral 7B** (GGUF) for answer generation. Runs fully locally for privacy with optional GPU acceleration.
 
 **Stack:** Python • LangChain • ChromaDB • Mistral • Sentence-Transformers • Jupyter
-
-</td>
-<td width="50%">
-
-#### ✈️ Airline QnA Bot
-[![Repo](https://img.shields.io/badge/Repo-4_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Airline-QnA-Bot)
-
-![Airline QnA Demo](https://placehold.co/800x400/0f172a/3b82f6?text=Airline+QnA+Bot)
-
-RAG-powered HR policy Q&A bot for Flykite Airlines employee handbook. Query via natural language with **LangChain**, **FAISS/ChromaDB**, **OpenAI/Claude**. Source attribution and hyperparameter tuning.
-
-**Stack:** LangChain • FAISS • ChromaDB • OpenAI • Claude • RAG
 
 </td>
 </tr>
@@ -293,6 +281,7 @@ RAG-powered HR policy Q&A bot for Flykite Airlines employee handbook. Query via 
 
 #### 📊 MMM — Marketing Mix Modelling
 [![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/MMM-Marketing-Mix-Modelling)
+[![Live](https://img.shields.io/badge/Live_Demo-Streamlit-FF4B4B?style=flat-square&logo=streamlit)](https://marketing-mix-modelling.streamlit.app)
 
 ![MMM Demo](https://placehold.co/800x400/0f172a/f59e0b?text=MMM+Marketing+Mix)
 
@@ -304,7 +293,8 @@ Marketing Mix Modelling app: attribute sales/revenue to channels with **adstock*
 <td width="50%">
 
 #### 📄 Resume Analyzer — ATS Optimization
-[![Repo](https://img.shields.io/badge/Repo-6_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Resume-Analyzer-MLOps)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Resume-Analyzer-MLOps)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/resume-analyzer)
 
 ![Resume Analyzer Demo](https://placehold.co/800x400/0f172a/8b5cf6?text=Resume+Analyzer+MLOps)
 
@@ -338,7 +328,8 @@ Interactive roadmap for **Data Engineer**, **Data Scientist**, **ML Engineer**, 
 <td width="50%">
 
 #### 💻 DSCode — Data Science Learning Platform
-[![Repo](https://img.shields.io/badge/Repo-5_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/DSCode)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/DSCode)
+[![Live](https://img.shields.io/badge/Live_Demo-GitHub_Pages-181717?style=flat-square&logo=github)](https://ananttripathi.github.io/DSCode/)
 
 ![DSCode Demo](https://placehold.co/800x400/0f172a/10b981?text=DSCode+Learning+Platform)
 
@@ -359,7 +350,7 @@ Free, comprehensive learning platform for mastering Data Science, AI, and ML. **
 <td width="50%">
 
 #### 🌐 Anant Portfolio
-[![Repo](https://img.shields.io/badge/Repo-6_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Anant-Portfolio)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Anant-Portfolio)
 [![Live](https://img.shields.io/badge/Live_Site-6366f1?style=flat-square)](https://ananttripathi.github.io/Anant-Portfolio/)
 
 ![Portfolio Demo](https://placehold.co/800x400/0f172a/6366f1?text=Professional+Portfolio)
@@ -372,7 +363,7 @@ Professional portfolio website: ML/AI projects, Generative AI & MLOps experience
 <td width="50%">
 
 #### 📓 AI-ML Projects — UT Austin
-[![Repo](https://img.shields.io/badge/Repo-16_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/AI-ML-Projects-UT-Austin)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/AI-ML-Projects-UT-Austin)
 
 ![UT Austin Demo](https://placehold.co/800x400/0f172a/eab308?text=UT+Austin+AI+ML+Projects)
 
@@ -394,7 +385,6 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 | [PGP-Applied-AI-Agentic-AI-IIITB](https://github.com/ananttripathi/PGP-Applied-AI-Agentic-AI-IIITB) | Applied AI & Agentic AI from IIIT Bangalore — LLMs, RAG, multi-agent systems (⭐ 5) |
 | [System-Design](https://github.com/ananttripathi/System-Design) | System design roadmaps for SDE, ML Engineer, AI Engineer, Data Scientist, Data Engineer |
 | [Anant-Tripathi](https://github.com/ananttripathi/Anant-Tripathi) | Cyberpunk-inspired portfolio with particle animation (⭐ 6) |
-| [Rough](https://github.com/ananttripathi/Rough) | Lightweight sandbox for experiments and scratch work |
 
 ---
 
