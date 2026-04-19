@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🤖 Anant Tripathi</h1>
+![Banner](banner.png)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
 
