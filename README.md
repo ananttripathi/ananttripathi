@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:6366f1,50:8b5cf6,100:ec4899&amp;height=220&amp;section=header&amp;text=Anant+Tripathi&amp;fontSize=60&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Senior+ML+%26+AI+Engineer+%7C+GenAI+Specialist+%7C+Product+Leader&amp;descAlignY=58&amp;descSize=18" alt="Header Banner" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Anant+Tripathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior+ML+%26+AI+Engineer+%7C+GenAI+Specialist+%7C+Product+Leader&descAlignY=58&descSize=18)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
 
@@ -603,5 +603,5 @@ I'm always interested in:
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:ec4899,50:8b5cf6,100:6366f1&amp;height=120&amp;section=footer" alt="Footer Banner" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer)
 
