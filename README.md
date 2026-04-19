@@ -1,8 +1,24 @@
 <div align="center">
 
-# 🤖 Anant Tripathi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Anant%20Tripathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20ML%20%26%20AI%20Engineer%20%7C%20GenAI%20Specialist%20%7C%20Product%20Leader&descAlignY=58&descSize=18" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
+
+<br/>
+
+🟢 **Open to Senior ML/AI Engineering roles & AI consulting opportunities**
+
+<br/>
+
+📍 Bengaluru, India &nbsp;•&nbsp; ⚡ Usually responds within 24h &nbsp;•&nbsp; 🌐 [ananttripathi.github.io/Anant-Portfolio](https://ananttripathi.github.io/Anant-Portfolio/)
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ananttripathi&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/ananttripathi?label=Followers&style=flat-square&color=6366f1" alt="Followers" />
+
+<br/><br/>
 
 <table>
 <tr>
@@ -584,13 +600,8 @@ I'm always interested in:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ananttripathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-
-<p align="center">
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer" alt="Footer Banner" />
 
