@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:8b5cf6,100:ec4899&height=220&section=header&text=Anant+Tripathi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior+ML+%26+AI+Engineer+%7C+GenAI+Specialist+%7C+Product+Leader&descAlignY=58&descSize=18)
+<h1>🤖 Anant Tripathi</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
 
@@ -603,5 +603,4 @@ I'm always interested in:
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:ec4899,50:8b5cf6,100:6366f1&height=120&section=footer)
 
