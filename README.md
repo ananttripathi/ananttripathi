@@ -397,10 +397,10 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 
 | Project | Description |
 |---------|-------------|
-| [MDS-Deakin-University](https://github.com/ananttripathi/MDS-Deakin-University) | Data science projects from Deakin University MDS program — analytics, modeling, business insights (⭐ 7) |
-| [PGP-Applied-AI-Agentic-AI-IIITB](https://github.com/ananttripathi/PGP-Applied-AI-Agentic-AI-IIITB) | Applied AI & Agentic AI from IIIT Bangalore — LLMs, RAG, multi-agent systems (⭐ 5) |
+| [MDS-Deakin-University](https://github.com/ananttripathi/MDS-Deakin-University) | Data science projects from Deakin University MDS program — analytics, modeling, business insights |
+| [PGP-Applied-AI-Agentic-AI-IIITB](https://github.com/ananttripathi/PGP-Applied-AI-Agentic-AI-IIITB) | Applied AI & Agentic AI from IIIT Bangalore — LLMs, RAG, multi-agent systems |
 | [System-Design](https://github.com/ananttripathi/System-Design) | System design roadmaps for SDE, ML Engineer, AI Engineer, Data Scientist, Data Engineer |
-| [Anant-Tripathi](https://github.com/ananttripathi/Anant-Tripathi) | Cyberpunk-inspired portfolio with particle animation (⭐ 6) |
+| [Anant-Tripathi](https://github.com/ananttripathi/Anant-Tripathi) | Cyberpunk-inspired portfolio with particle animation |
 
 ---
 
@@ -458,12 +458,12 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 ## 📊 GitHub Statistics & Activity
 
 <p>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=ananttripathi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 📈 Contribution & Activity Graph
