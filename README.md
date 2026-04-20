@@ -46,6 +46,8 @@
 **Project Links**
 
 [![Tourism](https://img.shields.io/badge/Tourism-Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction)
+[![Airline HR Bot](https://img.shields.io/badge/Airline_HR_Bot-Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/airline-hr-policy-bot)
+[![Pneumonia Detection](https://img.shields.io/badge/Pneumonia_Detection-Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/pneumonia-detection-space)
 [![Medical RAG](https://img.shields.io/badge/Medical_RAG-Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Medical-RAG-System)
 [![Resume Analyzer](https://img.shields.io/badge/Resume_ATS-Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Resume-Analyzer-MLOps)
 [![Roadmap](https://img.shields.io/badge/DS_Roadmap-Live-6366f1?style=flat-square)](https://ananttripathi.github.io/Senior-Data-Scientist-Roadmap/)
@@ -263,6 +265,22 @@ End-to-end MLOps pipeline for engine failure classification using 6 sensor input
 **Stack:** Python • Scikit-learn • XGBoost • MLflow • Docker • GitHub Actions • Streamlit • Hugging Face
 
 </td>
+<td width="50%">
+
+#### 🏥 Pneumonia Detection from Chest X-Ray
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Pneumonia-Detection-Project)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/pneumonia-detection-space)
+[![Model](https://img.shields.io/badge/Model-HuggingFace-orange?style=flat-square&logo=huggingface)](https://huggingface.co/ananttripathiak/pneumonia-detection-model)
+
+![Pneumonia Detection Demo](https://placehold.co/800x400/0f172a/ef4444?text=Pneumonia+Detection)
+
+End-to-end deep learning system for detecting pneumonia from chest X-rays. Trained on the RSNA dataset (26,000+ images) using **EfficientNetB3** transfer learning. Supports DICOM and standard image formats with confidence scoring and clinical recommendations.
+
+**Model Performance:** 74.76% validation accuracy · 3-class classification (Normal / Lung Opacity / Not Normal)
+
+**Stack:** Python • TensorFlow • EfficientNetB3 • Streamlit • Docker • Hugging Face Hub • GitHub Actions
+
+</td>
 </tr>
 </table>
 
@@ -282,6 +300,19 @@ End-to-end MLOps pipeline for engine failure classification using 6 sensor input
 RAG-based medical Q&A over the **Merck Manual (19th ed.)**. **ChromaDB** semantic search, **GTE-large** embeddings, **Mistral 7B** (GGUF) for answer generation. Runs fully locally for privacy with optional GPU acceleration.
 
 **Stack:** Python • LangChain • ChromaDB • Mistral • Sentence-Transformers • Jupyter
+
+</td>
+<td width="50%">
+
+#### ✈️ Airline HR Policy Bot
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Airline-QnA-Bot)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/airline-hr-policy-bot)
+
+![Airline HR Bot Demo](https://placehold.co/800x400/0f172a/3b82f6?text=Airline+HR+Policy+Bot)
+
+RAG-powered HR policy Q&A bot for Flykite Airlines employee handbook. Answers employee questions from a PDF knowledge base with page-level citations. Deployed on Hugging Face Spaces with GitHub Actions CI/CD auto-deploy pipeline.
+
+**Stack:** Python • LangChain • FAISS • Groq (LLaMA 3.3 70B) • sentence-transformers • Gradio • GitHub Actions
 
 </td>
 </tr>
