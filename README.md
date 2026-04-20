@@ -325,6 +325,23 @@ RAG-powered HR policy Q&A bot for Flykite Airlines employee handbook. Answers em
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+#### 🍔 FoodHub AI Customer Support
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Food-Chatbot-Agentic-AI)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/foodhub-chatbot)
+
+![FoodHub Chatbot Demo](https://placehold.co/800x400/0f172a/f97316?text=FoodHub+AI+Chatbot)
+
+Agentic AI chatbot for food-delivery order support. A **SQL agent** queries a live orders database and an **LLM** formats the response into natural, empathetic replies. Includes guardrails for blocked queries and automatic escalation to human agents.
+
+**Stack:** Python • LangChain • Groq (LLaMA 4) • SQLite • SQL Agent • Gradio • GitHub Actions
+
+</td>
+<td width="50%">
+</td>
+</tr>
 </table>
 
 ---
