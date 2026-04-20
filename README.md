@@ -84,6 +84,20 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 - 📈 Increased HCP adoption rates by **38%** and model accuracy by **35%**
 
 ---
+
+## 🔨 Currently Building
+
+| Project | What | Status |
+|---------|------|--------|
+| **RAG-based Medical Assistant** | Deploying ChromaDB + Mistral 7B medical Q&A to Hugging Face Spaces | 🟡 In Progress |
+| **File Whisperer v2** | Adding multi-doc support and streaming responses | 🟡 In Progress |
+| **Deakin MDS Program** | Advanced data science coursework — analytics, modeling, business insights | 🟢 Active |
+| **IIIT Bangalore — Agentic AI** | Multi-agent systems, LLM orchestration, tool-use patterns | 🟢 Active |
+| **UT Austin — AI/ML PGP** | Capstone project — production ML system design | 🟢 Active |
+
+> 🗓️ *Last updated: April 2026*
+
+---
 ### ☕ Support My Work
 
 <div align="center">
