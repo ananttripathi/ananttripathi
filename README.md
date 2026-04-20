@@ -30,6 +30,8 @@
 **Project Links**
 
 [![Tourism](https://img.shields.io/badge/Tourism-Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/wellness-tourism-prediction)
+[![Airline HR Bot](https://img.shields.io/badge/Airline_HR_Bot-Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/airline-hr-policy-bot)
+[![Pneumonia Detection](https://img.shields.io/badge/Pneumonia_Detection-Live-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/pneumonia-detection-space)
 [![Medical RAG](https://img.shields.io/badge/Medical_RAG-Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Medical-RAG-System)
 [![Resume Analyzer](https://img.shields.io/badge/Resume_ATS-Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Resume-Analyzer-MLOps)
 [![Roadmap](https://img.shields.io/badge/DS_Roadmap-Live-6366f1?style=flat-square)](https://ananttripathi.github.io/Senior-Data-Scientist-Roadmap/)
@@ -175,13 +177,41 @@ End-to-end MLOps pipeline for predicting customer purchase of wellness tourism p
 
 #### 🔧 Engine Predictive Maintenance
 [![Repo](https://img.shields.io/badge/Repo-5_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/engine-predictive-maintenance)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/engine-maintenance-space)
+[![Model](https://img.shields.io/badge/Model-HuggingFace-orange?style=flat-square&logo=huggingface)](https://huggingface.co/ananttripathiak/engine-maintenance-model)
 
 ![Predictive Maintenance Demo](https://placehold.co/800x400/0f172a/22c55e?text=Predictive+Maintenance)
 
 IoT-based predictive maintenance using engine sensor data. Time-series feature engineering, **Random Forest** & **Gradient Boosting** models, and automated evaluation pipeline with ROC-AUC, F1-score tracking.
 
-**Stack:** Python • Scikit-learn • XGBoost • Time Series • Hugging Face • Streamlit
+**Model Performance:** Accuracy 97.5% • F1 97.4% • ROC-AUC 0.993
 
+**Prerequisites:** Python 3.10+, Docker, Hugging Face token (write access), GitHub Actions secrets
+
+**Stack:** Python • Scikit-learn • XGBoost • Time Series • Hugging Face • Streamlit • Docker • MLflow
+
+**Setup & Troubleshooting:** See [CONFIGURATION_GUIDE.md](https://github.com/ananttripathi/engine-predictive-maintenance/blob/main/CONFIGURATION_GUIDE.md)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 🏥 Pneumonia Detection from Chest X-Ray
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Pneumonia-Detection-Project)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/pneumonia-detection-space)
+[![Model](https://img.shields.io/badge/Model-HuggingFace-orange?style=flat-square&logo=huggingface)](https://huggingface.co/ananttripathiak/pneumonia-detection-model)
+
+![Pneumonia Detection Demo](https://placehold.co/800x400/0f172a/ef4444?text=Pneumonia+Detection)
+
+End-to-end deep learning system for detecting pneumonia from chest X-rays. Trained on the RSNA dataset (26,000+ images) using **EfficientNetB3** transfer learning. Supports both DICOM and standard image formats with confidence scoring and clinical recommendations.
+
+**Model Performance:** 74.76% validation accuracy • 3-class classification (Normal / Lung Opacity / Not Normal)
+
+**Stack:** Python • TensorFlow • EfficientNetB3 • Streamlit • Docker • Hugging Face Hub • DICOM • GitHub Actions
+
+</td>
+<td width="50%">
 </td>
 </tr>
 </table>
@@ -206,14 +236,15 @@ RAG-based medical Q&A over the **Merck Manual (19th ed.)**. **ChromaDB** semanti
 </td>
 <td width="50%">
 
-#### ✈️ Airline QnA Bot
-[![Repo](https://img.shields.io/badge/Repo-4_stars-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Airline-QnA-Bot)
+#### ✈️ Airline HR Policy Bot
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Airline-QnA-Bot)
+[![Live](https://img.shields.io/badge/Live_Demo-HuggingFace-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/spaces/ananttripathiak/airline-hr-policy-bot)
 
-![Airline QnA Demo](https://placehold.co/800x400/0f172a/3b82f6?text=Airline+QnA+Bot)
+![Airline QnA Demo](https://placehold.co/800x400/0f172a/3b82f6?text=Airline+HR+Policy+Bot)
 
-RAG-powered HR policy Q&A bot for Flykite Airlines employee handbook. Query via natural language with **LangChain**, **FAISS/ChromaDB**, **OpenAI/Claude**. Source attribution and hyperparameter tuning.
+RAG-powered HR policy Q&A bot for Flykite Airlines employee handbook. Query via natural language with source-cited answers. Deployed on Hugging Face Spaces with GitHub Actions CI/CD auto-deploy.
 
-**Stack:** LangChain • FAISS • ChromaDB • OpenAI • Claude • RAG
+**Stack:** Python • LangChain • FAISS • Groq (LLaMA 3.3 70B) • sentence-transformers • Gradio • GitHub Actions
 
 </td>
 </tr>
