@@ -265,6 +265,15 @@ End-to-end MLOps pipeline for engine failure classification using 6 sensor input
 **Stack:** Python • Scikit-learn • XGBoost • MLflow • Docker • GitHub Actions • Streamlit • Hugging Face
 
 </td>
+</tr>
+</table>
+
+---
+
+### Computer Vision & Deep Learning
+
+<table>
+<tr>
 <td width="50%">
 
 #### 🏥 Pneumonia Detection from Chest X-Ray
@@ -278,7 +287,7 @@ End-to-end deep learning system for detecting pneumonia from chest X-rays. Train
 
 **Model Performance:** 74.76% validation accuracy · 3-class classification (Normal / Lung Opacity / Not Normal)
 
-**Stack:** Python • TensorFlow • EfficientNetB3 • Streamlit • Docker • Hugging Face Hub • GitHub Actions
+**Stack:** Python • TensorFlow • EfficientNetB3 • CNN • Transfer Learning • Streamlit • Docker • Hugging Face Hub
 
 </td>
 </tr>
