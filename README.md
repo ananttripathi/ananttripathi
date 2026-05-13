@@ -438,8 +438,8 @@ Free, comprehensive learning platform for mastering Data Science, AI, and ML. **
 <td width="50%">
 
 #### 🌐 Anant Portfolio
-[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/Anant-Portfolio)
-[![Live](https://img.shields.io/badge/Live_Site-6366f1?style=flat-square)](https://ananttripathi.github.io/Anant-Portfolio/)
+[![Repo](https://img.shields.io/badge/Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ananttripathi/ananttripathi.github.io)
+[![Live](https://img.shields.io/badge/Live_Site-6366f1?style=flat-square)](https://ananttripathi.github.io/)
 
 ![Portfolio Demo](https://placehold.co/800x400/0f172a/6366f1?text=Professional+Portfolio)
 
