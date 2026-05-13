@@ -11,7 +11,7 @@
 
 <br/>
 
-📍 Bengaluru, India &nbsp;•&nbsp; ⚡ Usually responds within 24h &nbsp;•&nbsp; 🌐 [ananttripathi.github.io/Anant-Portfolio](https://ananttripathi.github.io/Anant-Portfolio/)
+📍 Bengaluru, India &nbsp;•&nbsp; ⚡ Usually responds within 24h &nbsp;•&nbsp; 🌐 [ananttripathi.github.io](https://ananttripathi.github.io/)
 
 <br/>
 
