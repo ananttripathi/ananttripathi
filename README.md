@@ -11,7 +11,7 @@
 
 <br/>
 
-📍 Bengaluru, India &nbsp;•&nbsp; ⚡ Usually responds within 24h &nbsp;•&nbsp; 🌐 [ananttripathi.github.io](https://ananttripathi.github.io/)
+📍 Bengaluru, India &nbsp;•&nbsp; ⚡ Usually responds within 24h &nbsp;•&nbsp; 🌐 [ananttripathi.in](https://ananttripathi.in/)
 
 <br/>
 
@@ -28,7 +28,8 @@
 **Connect**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=flat-square&logo=googlechrome&logoColor=white)](https://ananttripathi.github.io/Anant-Portfolio/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/ananttripathiak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=flat-square&logo=googlechrome&logoColor=white)](https://ananttripathi.in/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/anantkumartripathi)
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/ananttripathiak)
 
@@ -666,7 +667,8 @@ I'm always interested in:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananttripathiak@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ananttripathiak)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://ananttripathi.github.io/Anant-Portfolio/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ananttripathiak)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ananttripathi.in/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anantkumartripathi)
 
 ---
