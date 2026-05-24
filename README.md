@@ -62,7 +62,7 @@
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🌌 About Me
 
@@ -86,7 +86,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 - 🚀 Reduced execution time by **72%** and memory consumption by **63%**
 - 📈 Increased HCP adoption rates by **38%** and model accuracy by **35%**
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🔨 Currently Building
 
@@ -100,7 +100,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 > 🗓️ *Last updated: April 2026*
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 ### ☕ Support My Work
 
 <div align="center">
@@ -112,7 +112,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 
 *Your support helps me create more open-source projects and share knowledge with the community.*
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 ## ⚡ Impact Metrics
 
 | Metric | Achievement | Domain |
@@ -126,7 +126,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 | **Team Management** | Led 5+ data scientists | Cross-functional Collaboration |
 | **API Architecture** | Built Pre/Post-Optimization APIs | System Design & Scalability |
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🛠️ Tech Stack & Expertise
 
@@ -174,7 +174,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🚀 Featured Projects
 
@@ -187,7 +187,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 - Delivered **25+ MMM projects** for Bayer, Merck, Novartis, Janssen with measurable ROI improvements
 - Built Pre/Post-Optimization APIs reducing execution time by **72%** and memory by **63%**
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### 🛠️ Apps & Tools
 
@@ -250,7 +250,7 @@ Web app converting YAML configurations to Python variable assignments in real-ti
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### MLOps & Production ML
 
@@ -285,7 +285,7 @@ End-to-end MLOps pipeline for engine failure classification using 6 sensor input
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### Computer Vision & Deep Learning
 
@@ -310,7 +310,7 @@ End-to-end deep learning system for detecting pneumonia from chest X-rays. Train
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### Generative AI & RAG
 
@@ -361,7 +361,7 @@ Agentic AI chatbot for food-delivery order support. A **SQL agent** queries a li
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### Marketing Analytics & Optimization
 
@@ -396,7 +396,7 @@ AI-powered MLOps platform that optimizes your resume for **Applicant Tracking Sy
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### Learning Platforms & Resources
 
@@ -431,7 +431,7 @@ Free, comprehensive learning platform for mastering Data Science, AI, and ML. **
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### Portfolios & Academic Projects
 
@@ -465,7 +465,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 </tr>
 </table>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ### Program Portfolios
 
@@ -476,7 +476,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 | [System-Design](https://github.com/ananttripathi/System-Design) | System design roadmaps for SDE, ML Engineer, AI Engineer, Data Scientist, Data Engineer |
 | [Anant-Tripathi](https://github.com/ananttripathi/Anant-Tripathi) | Cyberpunk-inspired portfolio with particle animation |
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 💼 Professional Experience
 
@@ -503,7 +503,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 - Delivered 5 Marketing Mix Modeling projects for top US pharma clients
 - Established foundation in MMM techniques and analytics workflow delivery
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🎓 Education
 
@@ -524,7 +524,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 - 🏅 **Right Brigade Award (Axtria)** – Recognized for exemplary display of "RIGHT" values: Responsiveness, Integrity, Get going, Humble, and Team Player
 - 🏅 **Bravo Award (Axtria)** – Honored for delivering high-quality work, exemplary performance, and strong client appreciation across multiple high-stakes projects
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 <!-- GitHub Stats Section -->
 <div align="center">
@@ -564,7 +564,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 
 </div>
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ananttripathi&theme=radical&no-frame=true&no-bg=false&margin-w=4)
@@ -572,7 +572,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 📊 Current Focus Areas
 
@@ -610,7 +610,7 @@ current_focus = {
 }
 ```
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🎯 Key Technical Expertise
 
@@ -642,7 +642,7 @@ current_focus = {
 - Cloud deployment: AWS, Azure, GCP, Databricks
 - Performance optimization: 72% execution time reduction, 63% memory reduction
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 ### ☕ Support My Work
 
 <div align="center">
@@ -654,7 +654,7 @@ current_focus = {
 
 *Your support helps me create more open-source projects and share knowledge with the community.*
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 ## 🤝 Let's Connect!
 
@@ -672,7 +672,7 @@ I'm always interested in:
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF006E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ananttripathi.in/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/anantkumartripathi)
 
-<img width="100%" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11e8-908a-139a6edaec5c.gif" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2&height=3&section=header" />
 
 <p align="center">
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
