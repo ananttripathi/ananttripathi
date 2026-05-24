@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Anant%20Tripathi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20ML%20%26%20AI%20Engineer%20%7C%20GenAI%20Specialist%20%7C%20MLOps&descSize=18&descAlignY=58&descColor=c7d2fe)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=200&section=header)
 
 <div align="center">
   
