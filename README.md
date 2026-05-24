@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Anant%20Tripathi&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20GenAI%20Specialist%20%7C%20MLOps&descAlignY=58&descSize=18&descColor=c7d2fe" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Anant%20Tripathi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20Engineer%20%7C%20GenAI%20Specialist%20%7C%20MLOps&descAlignY=58&descSize=18" />
 
 
 
@@ -678,4 +678,4 @@ I'm always interested in:
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
