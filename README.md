@@ -2,7 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,22&height=220&section=header&text=Anant%20Tripathi&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=ML%20Engineer%20%7C%20GenAI%20Specialist%20%7C%20MLOps&descAlignY=58&descSize=18" />
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="logo-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="logo-dark.png">
+  <img alt="Anant Tripathi" src="logo-dark.png" height="130">
+</picture>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
 
