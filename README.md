@@ -1,7 +1,7 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Anant%20Tripathi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20ML%20%26%20AI%20Engineer%20%7C%20GenAI%20Specialist%20%7C%20MLOps&descSize=18&descAlignY=58&descColor=c7d2fe)
+
 <div align="center">
   
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=220&section=header&text=Anant%20Tripathi&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20ML%20%26%20AI%20Engineer%20%7C%20GenAI%20Specialist%20%7C%20MLOps&descSize=18&descAlignY=58&descColor=c7d2fe" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=580&lines=Senior+ML+%26+AI+Engineer;GenAI+Specialist+%7C+Product+Leader;Building+Intelligent+Systems+at+Scale" alt="Typing SVG" />
 
@@ -677,4 +677,4 @@ I'm always interested in:
   <i>⭐️ From <a href="https://github.com/ananttripathi">ananttripathi</a> - Building the future of AI, one model at a time</i>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" width="100%" />
+![footer](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer)
