@@ -480,7 +480,6 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 ## 💼 Professional Experience
 
 ### 🏢 Axtria – Ingenious Insights | Bengaluru, India
-**Career Progression (4 promotions in 3.5 years):**
 
 **Manager – Software Engineering** *(May 2026 – Present)*
 - Leading software engineering teams delivering scalable AI and analytics products across the Axtria platform
