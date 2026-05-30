@@ -97,7 +97,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 | **IIIT Bangalore: Agentic AI** | Multi-agent systems, LLM orchestration, tool-use patterns | 🟢 Active |
 | **UT Austin: AI/ML PGP** | Capstone project: production ML system design | 🟢 Active |
 
-> 🗓️ *Last updated: April 2026*
+> 🗓️ *Last updated: May 2026*
 
 <img width="100%" src="divider.svg" />
 ### ☕ Support My Work
@@ -482,12 +482,17 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 ### 🏢 Axtria – Ingenious Insights | Bengaluru, India
 **Career Progression (4 promotions in 3.5 years):**
 
-**Project Leader – Data Science / ML** *(May 2024 – Present)*
+**Manager – Software Engineering** *(May 2026 – Present)*
+- Leading software engineering teams delivering scalable AI and analytics products across the Axtria platform
+- Driving alignment across product, engineering, QA, and client stakeholder teams for enterprise-grade solutions
+- Architected and delivered an in-house **Synthetic Data Generation** platform accelerating QA testing, UAT cycles, and product demos for major pharmaceutical clients
+
+**Project Leader – Data Science / ML** *(Jun 2024 – Apr 2026)*
 - Leading 10+ major product capabilities with 95%+ on-time delivery and 98-100% error-free releases
 - Architecting scalable optimization systems serving enterprise pharmaceutical clients
 - Mentoring team of 5+ data scientists and training 70+ employees
 
-**Senior Associate – Data Scientist** *(May 2023 – Apr 2024)*
+**Senior Associate – Data Scientist** *(Apr 2023 – May 2024)*
 - Owned MMX optimization enhancements and algorithm implementations (COBYLA, SLSQP, CCSA)
 - Led high-impact POCs including Grid Selection, LSTM forecasting, and execution time optimization
 - Supported multiple global projects for Novartis brands across Poland and Germany
