@@ -95,7 +95,6 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 | **File Whisperer v2** | Adding multi-doc support and streaming responses | 🟡 In Progress |
 | **Deakin MDS Program** | Advanced data science coursework: analytics, modeling, business insights | 🟢 Active |
 | **IIIT Bangalore: Agentic AI** | Multi-agent systems, LLM orchestration, tool-use patterns | 🟢 Active |
-| **UT Austin: AI/ML PGP** | Capstone project: production ML system design | 🟢 Active |
 
 > 🗓️ *Last updated: May 2026*
 
