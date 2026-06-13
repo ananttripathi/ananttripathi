@@ -96,7 +96,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 | **Deakin MDS Program** | Advanced data science coursework: analytics, modeling, business insights | 🟢 Active |
 | **IIIT Bangalore: Agentic AI** | Multi-agent systems, LLM orchestration, tool-use patterns | 🟢 Active |
 
-> 🗓️ *Last updated: May 2026*
+> 🗓️ *Last updated: June 2026*
 
 <img width="100%" src="divider.svg" />
 
