@@ -78,7 +78,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 - 🏗️ Own **10+ product capabilities** from design to deployment with enterprise-scale impact
 
 **Career Highlights:**
-- 🏆 **4 promotions in 3.5 years**: Analyst → Associate → Senior Associate → Project Leader
+- 🏆 **4 promotions in 5 years**: Analyst → Associate → Senior Associate → Project Leader → Manager
 - ⚡ **98-100% error-free delivery rate** across production releases
 - 🎯 **95%+ on-time delivery** for 10+ major product capabilities
 - 💡 Led **GenAI integration** using Azure OpenAI improving user engagement by 40%
