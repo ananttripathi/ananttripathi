@@ -510,7 +510,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 
 ## 🎓 Education
 
-- 🎓 **Deakin University, Australia** | Masters of Data Science *(Jun 2026 – Jun 2027)*
+- 🎓 **Deakin University, Australia** | Masters of Data Science *(July 2026 – Jun 2027)*
 - 🎓 **International Institute of Information Technology, Bangalore** | Executive PGP in Applied AI & Agentic AI *(Dec 2025 – Aug 2026)*
 - 🎓 **The University of Texas at Austin, USA** | Post Graduate Program in Artificial Intelligence & Machine Learning *(Feb 2025 – Mar 2026)*
 - 🎓 **Birla Institute of Technology and Science, Pilani** | B.E. & M.Sc. (Integrated) in Electrical and Electronics *(Aug 2016 – Jun 2021)*
