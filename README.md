@@ -67,7 +67,7 @@
 
 > *"Building intelligent systems that don't just predict the future—they optimize it."*
 
-I'm a **Senior ML & AI Engineer** with **5+ years** of experience building production-grade AI solutions across **LLMs, optimization, and predictive analytics**. Currently leading data science initiatives at **Axtria – Ingenious Insights** while pursuing **3 advanced AI/ML programs simultaneously** (UT Austin, IIIT Bangalore, Deakin University).
+I'm a **Senior ML & AI Engineer** with **5+ years** of experience building production-grade AI solutions across **LLMs, optimization, and predictive analytics**. Currently leading data science initiatives at **Axtria – Ingenious Insights** while pursuing **4 advanced AI/ML programs simultaneously** (Walsh College, UT Austin, IIIT Bangalore, Deakin University).
 
 **What I Do:**
 - 🧠 Build and deploy **GenAI applications** using LLMs, RAG systems, and Azure OpenAI
@@ -93,6 +93,7 @@ I'm a **Senior ML & AI Engineer** with **5+ years** of experience building produ
 |---------|------|--------|
 | **RAG-based Medical Assistant** | Deploying ChromaDB + Mistral 7B medical Q&A to Hugging Face Spaces | 🟡 In Progress |
 | **File Whisperer v2** | Adding multi-doc support and streaming responses | 🟡 In Progress |
+| **Walsh College: DBA AI/ML** | Doctoral research in Artificial Intelligence and Machine Learning | 🟢 Active |
 | **Deakin MDS Program** | Advanced data science coursework: analytics, modeling, business insights | 🟢 Active |
 | **IIIT Bangalore: Agentic AI** | Multi-agent systems, LLM orchestration, tool-use patterns | 🟢 Active |
 
@@ -510,6 +511,7 @@ Comprehensive AI & ML project portfolio from **University of Texas at Austin** P
 
 ## 🎓 Education
 
+- 🎓 **Walsh College, Troy, Michigan, USA** | Doctor of Business Administration (DBA), Artificial Intelligence & Machine Learning *(Feb 2025 – Feb 2029)*
 - 🎓 **Deakin University, Australia** | Masters of Data Science *(July 2026 – Jun 2027)*
 - 🎓 **International Institute of Information Technology, Bangalore** | Executive PGP in Applied AI & Agentic AI *(Dec 2025 – Aug 2026)*
 - 🎓 **The University of Texas at Austin, USA** | Post Graduate Program in Artificial Intelligence & Machine Learning *(Feb 2025 – Mar 2026)*
@@ -600,6 +602,7 @@ current_focus = {
         "Enterprise AI Solutions"
     ],
     "learning": [
+        "DBA in AI/ML (Walsh College)",
         "Advanced AI/ML Research (UT Austin)",
         "Applied AI & Agentic Systems (IIIT Bangalore)",
         "Data Science Mastery (Deakin University)",
