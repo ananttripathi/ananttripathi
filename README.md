@@ -67,7 +67,7 @@
 
 > *"Building intelligent systems that don't just predict the future—they optimize it."*
 
-I'm a **Senior ML & AI Engineer** with **5+ years** of experience building production-grade AI solutions across **LLMs, optimization, and predictive analytics**. Currently leading data science initiatives at **Axtria – Ingenious Insights** while pursuing **4 advanced AI/ML programs simultaneously** (Walsh College, UT Austin, IIIT Bangalore, Deakin University).
+I'm a **Senior ML & AI Engineer** with **5+ years** of experience building production-grade AI solutions across **LLMs, optimization, and predictive analytics**. Currently leading data science initiatives at **Axtria – Ingenious Insights** while pursuing doctoral research in AI/ML.
 
 **What I Do:**
 - 🧠 Build and deploy **GenAI applications** using LLMs, RAG systems, and Azure OpenAI
